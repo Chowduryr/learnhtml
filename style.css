@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.intro {
+    color: aquamarine;
+    border: 10px solid #684236;
+}
+.intro strong {
+color:red;
+}
+#ptag {
+font-size: 30px;
+background: aquamarine;
+}
+
+.main{
+    height: 400px;
+    width: 800px;
+    border: 2px #616161 solid;
+    margin: auto;
+}
+
+.red {
+background: red;
+display: inline-block;
+height: 400px;
+width: 262px;
+margin: 0;
+}
+.blue{
+background: blue;
+display: inline-block;
+height: 400px;
+width: 262px;
+margin: 0;
+}
+.black{
+background: black;
+display: inline-block;
+height: 400px;
+width: 262px;
+margin: 0;
+}
